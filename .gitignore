@@ -1,0 +1,5 @@
+# Default ignored files
+.vs/*
+.idea/*
+.vscode/*
+cmake-build-debug/*   
